@@ -1,0 +1,83 @@
+body{
+    width:100%;
+    max-width: 100%;
+}
+html{
+    width: 100%;
+    max-width: 100%;
+}
+h1{
+    color:Indigo;
+    font-size: 60px;
+    font-family:Calibri;
+}
+h4{
+    color: black;
+    font-size: 30px;
+    font-family: Centaur;
+}
+.about{
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.icon{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+.glyphicon{
+    font-size: 90px;
+    color: orange;
+}
+.glyphicon-calendar{
+    color:green;
+
+}
+.schedule{
+    text-align: center;
+    background-size: cover;
+    background-image: url("bg3.jpg");
+    background-position: fixed;
+    z-index: -1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.event{
+    
+    border-width: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+    z-index: +1;
+}
+.contact{
+    background-color: lightgoldenrodyellow;
+    height: 300px;
+}
+.map{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  .mob{
+      width: 60%;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+  footer{
+      background-color:black;
+  }
